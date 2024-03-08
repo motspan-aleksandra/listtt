@@ -1,0 +1,106 @@
+.inputpart {
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.searchbar {
+    width: 90%;
+    height: 30px;
+    display: flex;
+}
+
+#nameInput {
+    width: 80%;
+    height: 100%;
+    border: none;
+}
+
+#myButton {
+    width: 20%;
+    height: 100%;
+    border: none;
+    background-color: rgb(166, 166, 166);
+    color: rgb(81, 81, 81);
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 5px;
+
+
+}
+
+
+#list {
+    width: 100%;
+
+}
+
+.item {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5%;
+    color: black;
+    font-size: 15px;
+}
+
+.text {
+    /*
+    border: none;
+    background: none;
+    height: 0;
+    width: 0;
+    */
+    display: flex;
+    align-items: center;
+
+}
+.texttext {
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.deleteBtn {
+    background: none;
+    border: none;
+    width: 30px;
+    height: 0;
+    width: 0;
+    display: flex;
+    align-items: center;
+    margin-left: 85%;
+
+}
+
+.cross {
+    height: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
